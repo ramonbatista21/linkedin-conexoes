@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1053">
+        <Placemark id="1055">
+            <name>Grupo 0</name>
+            <Point id="1054">
+                <coordinates>-44.05616083243243,-19.90035042207207,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>Grupo 1</name>
+            <Point id="1056">
+                <coordinates>-95.78907146666667,36.998759928205125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>Grupo 2</name>
+            <Point id="1058">
+                <coordinates>0.1680791333333289,49.22311259999999,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>Grupo 3</name>
+            <Point id="1060">
+                <coordinates>-76.44073978421052,40.809677401754385,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>Grupo 4</name>
+            <Point id="1062">
+                <coordinates>127.8049672,26.3016827,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>Grupo 5</name>
+            <Point id="1064">
+                <coordinates>-117.84251706086957,35.00412039130434,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>Grupo 6</name>
+            <Point id="1066">
+                <coordinates>60.78854845,24.63655285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>Grupo 7</name>
+            <Point id="1068">
+                <coordinates>-67.63696605,-3.3659014250000014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>Grupo 8</name>
+            <Point id="1070">
+                <coordinates>-97.97799893448276,27.49730071034483,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>Grupo 9</name>
+            <Point id="1072">
+                <coordinates>13.267026500000007,-8.8810489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>Grupo 10</name>
+            <Point id="1074">
+                <coordinates>-80.01384288666667,27.208207913333332,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>Grupo 11</name>
+            <Point id="1076">
+                <coordinates>-87.58564834615385,42.325915112820496,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>Grupo 12</name>
+            <Point id="1078">
+                <coordinates>-48.04887893809524,-24.52495403333333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>Grupo 13</name>
+            <Point id="1080">
+                <coordinates>-40.55777405,-5.638322607142858,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>Grupo 14</name>
+            <Point id="1082">
+                <coordinates>-122.89349572,48.42322244,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
