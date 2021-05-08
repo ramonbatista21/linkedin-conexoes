@@ -992,7 +992,7 @@ with open('html/file2.html', 'w', encoding='utf8' ) as f:
 
 
 #API google geocoders
-g = geocoders.GoogleV3('AIzaSyA6httAhU7BPTsi8-oIDtjw_pPRJusQehU') #Adicionar Chave da Credencial da API
+g = geocoders.GoogleV3('') #Adicionar Chave da Credencial da API
 
 
 # In[89]:
